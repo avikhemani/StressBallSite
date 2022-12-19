@@ -19,9 +19,13 @@ This Privacy Policy does not apply to the third-party online/mobile store from w
 
 We may collect information about you in a variety of ways. The information we may collect via the Application depends on the content and materials you use, and includes:
 
-###  Personal Data
+### Personal Data
 
 Demographic and other personally identifiable information (such as your name and email address) that you voluntarily give to us when choosing to participate in various activities related to the Application, such as chat, posting messages in comment sections or in our forums, liking posts, sending feedback, and responding to surveys. If you choose to share data about yourself via your profile, online chat, or other interactive areas of the Application, please be advised that all data you disclose in these areas is public and your data will be accessible to anyone who accesses the Application.
+
+### TrueDepth Camera Data
+
+We use the TrueDepth API to detect whether you are smiling or not, and to what level you are smiling. We use this information to record the seconds of you smile for. None of this information is stored or shared with third parties; this information is only used real time to detect your smile.
 
 ### Mobile Device Access
 
